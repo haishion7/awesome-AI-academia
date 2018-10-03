@@ -164,7 +164,7 @@ Academic papers that strongly influenced the feild of Artificial Intelligence. S
 
 * [How to Read an Computer Science research paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 * [How to *write* a research paper - Stanford](http://cs.stanford.edu/people/widom/paper-writing.html)
-* [计算机方向的一些顶级会议和期刊(转载)](https://www.cnblogs.com/xiaopanlyu/p/4701169.html)
+* [计算机方向的一些顶级会议和期刊](http://edwinren.blogspot.com/2008_07_01_archive.html)
 
 ### License
 
